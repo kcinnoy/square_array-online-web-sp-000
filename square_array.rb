@@ -3,5 +3,4 @@ def square_array(array)
     sq = []
     sq << i*i
   end
-  return sq
 end
